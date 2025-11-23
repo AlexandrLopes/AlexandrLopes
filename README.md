@@ -1,6 +1,6 @@
 # Hello, World! I'm Alexandre Lopes 
 
-I'm a Cloud & DevOps student turning coffee into infrastructure. Currently sharpening my skills in **Python** and **AWS** in Brazil
+I'm a Junior Cloud Engineer turning coffee into infrastructure. Currently sharpening my skills in **Python** and **AWS** in Brazil
 
 I believe the best way to learn Cloud Engineering is by doing. That's why I created [**Cloud Engineering Labs**](https://github.com/AlexandrLopes/cloud-engineering-labs), a central hub where I document my experiments, automations, and projects.
 
