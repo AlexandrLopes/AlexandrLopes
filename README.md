@@ -1,6 +1,6 @@
 # Hello, World! I'm Alexandre Lopes 
 
-I'm a Junior Cloud Engineer turning coffee into infrastructure. Currently sharpening my skills in **Python** and **AWS** in Brazil. I am setting the stage for a new chapter in **Valencia, Spain (Apr/2026)** 🇪🇸. (Spouse of EU Citizen, full working rights).
+I'm a Junior Cloud Engineer turning coffee into infrastructure. Currently sharpening my skills in **Python** and **AWS** in Brazil. I am setting the stage for a new chapter in **Valencia, Spain (Apr/2026)** 🇪🇸. (Spouse of EU Citizen, full working rights -  No visa sponsorship required)
 
 I believe the best way to learn Cloud Engineering is by doing. That's why I created [**Cloud Engineering Labs**](https://github.com/AlexandrLopes/cloud-engineering-labs), a central hub where I document my experiments, automations, and projects.
 
