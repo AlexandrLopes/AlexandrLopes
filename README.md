@@ -50,3 +50,11 @@ Check it out to see my code, diagrams, and documentation in action.
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure sql logo"  />
   <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
+<div align="center">
+  <h3>🐍 Minhas Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
