@@ -17,6 +17,16 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <hr/>
 
 ### 🚀 About Me & The Mission
@@ -64,11 +74,24 @@ You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in t
 
 ---
 
+### 🎯 Career Goals & Opportunities
+
+While my foundation is in **Cloud Engineering**, my long-term vision is to specialize in **Cloud Security (SecOps)**. I am passionate about building infrastructures that are not only automated but secure by design.
+
+I am currently **open to Trainee, Junior** where I can contribute with my Python/AWS skills while absorbing best practices from experienced teams.
+
+* **Availability:** Immediate (Remote) or On-site in Valencia, Spain (from Apr/2026)
+* **Languages:** Portuguese (Native), English (Professional Working Proficiency), Spanish (Learning)
+
+---
+
 <div align="center">
-  <h3>📉 My Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ALEXANDRLOPES/ALEXANDRLOPES/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h3>📫 Connect with me</h3>
+  <p>Let's talk about Cloud, Security, or the best coffee in town.</p>
+  
+  <a href="https://www.linkedin.com/in/alexandre-lopes-8a4574211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
+
+<br>
