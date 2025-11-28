@@ -36,7 +36,17 @@ Check it out to see my code, diagrams, and documentation in action.
 ---
 
 <div align="left">
+  <h3>📫 Connect with me </h3>
   <a href="https://www.linkedin.com/in/alexandre-lopes-8a4574211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</div>
+
+<div align="left">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azure sql logo"  />
+  <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
