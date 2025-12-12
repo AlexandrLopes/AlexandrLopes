@@ -80,7 +80,7 @@ While my foundation is in **Cloud Engineering**, my long-term vision is to speci
 
 I am currently **open to Trainee, Junior** where I can contribute with my Python/AWS skills while absorbing best practices from experienced teams.
 
-* **Availability:** Immediate (Remote) or On-site in Madrid, Spain (from Apr/2026)
+* **Availability:** Immediate (Remote) or On-site in Madrid, Spain 
 * **Languages:** Portuguese (Native), English (Professional Working Proficiency), Spanish (Learning)
 
 ---
