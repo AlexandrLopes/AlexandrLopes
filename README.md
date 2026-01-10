@@ -29,13 +29,13 @@
 
 <hr/>
 
-### 🚀 About Me & The Mission
+### About Me & The Mission
 
 I am a Junior Cloud Engineer setting the stage for a professional chapter in Europe. My philosophy is: **The hard work pays off**.
 
 I believe the best way to learn Cloud Engineering is by *doing*. That's why I created **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**, and **[AWS Study Journey](https://github.com/AlexandrLopes/aws-study-journey)**  centrals hub's where I document my experiments, creating a bridge between theory and real-world implementation.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Cloud & Infrastructure**
 <br>
@@ -56,7 +56,7 @@ I believe the best way to learn Cloud Engineering is by *doing*. That's why I cr
 
 ---
 
-### 🐍 Why Python?
+### Why Python?
 
 You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in the console is not scalable. I use Python to:
 1.  **Automate** repetitive maintenance tasks (backups, cleanups).
@@ -65,7 +65,7 @@ You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in t
 
 ---
 
-### 🧪 Featured Repository
+### Featured Repository
 
 > **[📂 Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**
 >
@@ -74,13 +74,13 @@ You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in t
 
 ---
 
-### 🎯 Career Goals & Opportunities
+### Career Goals & Opportunities
 
-While my foundation is in **Cloud Engineering**, my long-term vision is to specialize in **Cloud Security (SecOps)**. I am passionate about building infrastructures that are not only automated but secure by design.
+While my foundation is in **Cloud Engineering**, my long-term vision is to specialize in **Cloud Security (SecOps)**. I am passionate about building infrastructures that are not only automated but secure by design. My mentality is always have a **Defensive Programming**.
 
 I am currently **open to Trainee, Junior** where I can contribute with my Python/AWS skills while absorbing best practices from experienced teams.
 
-* **Availability:** Immediate (Remote) or On-site in Madrid, Spain 
+* **Availability:** Immediate (Remote) or Hybrid in Madrid, Spain 
 * **Languages:** Portuguese (Native), English (Professional Working Proficiency), Spanish (Learning)
 
 ---
