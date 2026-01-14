@@ -8,7 +8,7 @@
 
   <p>
     🇧🇷 <strong>Current:</strong> Brazil <br>
-    🇪🇸 <strong>Next Stop:</strong> Spain <br>
+    🇪🇸 <strong>Next Stop:</strong> Spain (Madrid) <br>
     <img src="https://img.shields.io/badge/Status-Spouse_of_EU_Citizen_(Full_Working_Rights)-blue?style=flat&logo=eu&logoColor=white" alt="Visa Status" />
   </p>
 
