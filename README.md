@@ -33,7 +33,7 @@
 
 I am a Junior Cloud Engineer setting the stage for a professional chapter in Europe. My philosophy is: **The hard work pays off**.
 
-I believe the best way to learn Cloud Engineering is by *doing*. That's why I created **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**, and **[AWS Study Journey](https://github.com/AlexandrLopes/aws-study-journey)**  centrals hub's where I document my experiments, creating a bridge between theory and real-world implementation.
+I believe the best way to learn Cloud Engineering is by *doing*. That's why I created **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)** the central hub where I document my experiments, creating a bridge between theory and real-world implementation.
 
 ### Tech Stack & Tools
 
