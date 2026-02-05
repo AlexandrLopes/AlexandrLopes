@@ -42,17 +42,21 @@ I believe the best way to learn Cloud Engineering is by *doing*. That's why I cr
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 **Code & Automation**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Boto3-AWS_SDK-yellow?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
 **Security Focus**
 <br>
 <img src="https://img.shields.io/badge/IAM-Access_Control-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/SecOps-Foundations-red?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-Vuln_Scanner-00A5CC?style=for-the-badge&logo=aquasecurity&logoColor=white" />
 
 ---
 
