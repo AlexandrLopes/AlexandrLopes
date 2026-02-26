@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alexandre Lopes 👋</h1>
-  <h3>Cloud Engineer focused on AWS & Python</h3>
+  <h3>DevSecOps Engineer | Cloud Security on AWS</h3>
 
   <p>
     <em>Turning coffee into infrastructure & automation.</em> ☕ ➡️ ☁️
@@ -31,9 +31,13 @@
 
 ### About Me & The Mission
 
-I am a Junior Cloud Engineer setting the stage for a professional chapter in Europe. My philosophy is: **The hard work pays off**.
+I am a DevSecOps Engineer focused on building secure, automated, and scalable cloud environments on AWS.
 
-I believe the best way to learn Cloud Engineering is by *doing*. That's why I created **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)** the central hub where I document my experiments, creating a bridge between theory and real-world implementation.
+My approach combines **Infrastructure as Code, Security by Design, and Automation-first principles**. I believe modern cloud engineering is not just about provisioning resources — it is about building resilient systems where security is embedded from the start.
+
+Through hands-on labs and real-world simulations in **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**, I design and document secure architectures, CI/CD pipelines with integrated security scanning, and automated remediation workflows.
+
+My philosophy remains simple: **The hard work pays off — especially when applied consistently and strategically.**
 
 ### Tech Stack & Tools
 
@@ -54,18 +58,30 @@ I believe the best way to learn Cloud Engineering is by *doing*. That's why I cr
 
 **Security Focus**
 <br>
-<img src="https://img.shields.io/badge/IAM-Access_Control-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/SecOps-Foundations-red?style=for-the-badge&logo=shield&logoColor=white" />
-<img src="https://img.shields.io/badge/Trivy-Vuln_Scanner-00A5CC?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-Least_Privilege-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-Security-red?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-Shift_Left_Security-red?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Container-Hardening-red?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Auto_Remediation-AWS_Lambda-red?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-Vulnerability_Scanning-00A5CC?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+
+I focus on building cloud environments that are secure by design, applying least privilege principles, automated security validation in CI/CD pipelines, and proactive vulnerability management.
 
 ---
 
-### Why Python?
+### Python & Automation Engineering
 
-You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in the console is not scalable. I use Python to:
-1.  **Automate** repetitive maintenance tasks (backups, cleanups).
-2.  **Manage** AWS resources programmatically using **Boto3**.
-3.  **Build** secure Serverless functions (Lambda).
+For me, Python is not just a scripting language — it is a core engineering tool.
+
+I use Python to build automation and security workflows that eliminate manual processes and reduce operational risk.
+
+🔹 Automating AWS resource management using Boto3  
+🔹 Developing Lambda-based auto-remediation functions  
+🔹 Creating security validation scripts for IAM and infrastructure  
+🔹 Integrating security checks into CI/CD pipelines  
+🔹 Writing modular, reusable automation scripts  
+
+In Cloud and DevSecOps, automation is security. Python allows me to transform infrastructure into programmable, controlled, and auditable systems.
 
 ---
 
@@ -80,12 +96,21 @@ You might ask: *"Why is a Cloud Engineer coding?"* Because clicking buttons in t
 
 ### Career Goals & Opportunities
 
-While my foundation is in **Cloud Engineering**, my long-term vision is to specialize in **Cloud Security (SecOps)**. I am passionate about building infrastructures that are not only automated but secure by design. My mentality is always have a **Defensive Programming**.
+My professional focus is DevSecOps and Cloud Security Engineering.
 
-I am currently **open to Trainee, Junior** where I can contribute with my Python/AWS skills while absorbing best practices from experienced teams.
+I am particularly interested in roles where I can contribute to:
 
-* **Availability:** Immediate (Remote) or Hybrid in Madrid, Spain 
-* **Languages:** Portuguese (Native), English (Professional Working Proficiency), Spanish (Learning)
+• Secure Infrastructure as Code (Terraform)  
+• CI/CD pipeline hardening and security automation  
+• Cloud IAM design and least privilege strategies  
+• Container security and vulnerability management  
+• Automated security remediation workflows  
+
+I am open to **Junior / Entry-Level DevSecOps or Cloud Security roles**, where I can deliver value through automation, cloud security practices, and strong ownership mentality.
+
+* **Availability:** Immediate (Remote) or Hybrid in Madrid, Spain  
+* **Work Authorization:** Full working rights in the EU  
+* **Languages:** Portuguese (Native), English (Professional), Spanish (Learning)
 
 ---
 
