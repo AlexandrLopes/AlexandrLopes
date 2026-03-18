@@ -7,8 +7,7 @@
   </p>
 
   <p>
-    🇧🇷 <strong>Current:</strong> Brazil <br>
-    🇪🇸 <strong>Next Stop:</strong> Madrid (April/2026) <br>
+    🇪🇸 <strong> Based:</strong> Madrid  <br>
     <img src="https://img.shields.io/badge/Status-Spouse_of_EU_Citizen_(Full_Working_Rights)-blue?style=flat&logo=eu&logoColor=white" alt="Visa Status" />
   </p>
 
@@ -106,7 +105,7 @@ I am open to **Junior / Entry-Level DevSecOps or Cloud Security roles**, where I
 
 * **Availability:** Immediate (Remote) or Hybrid in Madrid, Spain  
 * **Work Authorization:** Full working rights in the EU  
-* **Languages:** Portuguese (Native), English (Professional), Spanish (Learning)
+* **Languages:** Portuguese (Native), English (C2), Spanish (B2)
 
 ---
 
