@@ -1,17 +1,17 @@
 <div align="center">
   <h1>Hi, I'm Alexandre Lopes 👋</h1>
-  <h3>DevSecOps Engineer | Cloud Security on AWS</h3>
+  <h3>DevOps & Cloud Security Engineer | AWS</h3>
 
   <p>
-    <em>Turning coffee into infrastructure & automation.</em> ☕ ➡️ ☁️
+    <em>Turning coffee into infrastructure, security & automation.</em> ☕ ➡️ ☁️
   </p>
 
   <p>
-    🇪🇸 <strong> Based:</strong> Madrid  <br>
+    🇪🇸 <strong> Based:</strong> Madrid <br>
     <img src="https://img.shields.io/badge/Status-Spouse_of_EU_Citizen_(Full_Working_Rights)-blue?style=flat&logo=eu&logoColor=white" alt="Visa Status" />
   </p>
 
-  <a href="https://www.linkedin.com/in/alexandre-lopes-8a4574211/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandrewdlopes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -26,11 +26,11 @@
 
 ### About Me & The Mission
 
-I am a DevSecOps Engineer focused on building secure, automated, and scalable cloud environments on AWS.
+I am a DevOps and Cloud Security Engineer with certifications in AWS Cloud Practitioner (CLF-C02) and Google Cloud Cybersecurity. I focus on building secure, automated, and scalable cloud environments on AWS.
 
-My approach combines **Infrastructure as Code, Security by Design, and Automation-first principles**. I believe modern cloud engineering is not just about provisioning resources — it is about building resilient systems where security is embedded from the start.
+My approach combines **Infrastructure as Code (IaC), Security by Design, and Automation-first principles**. I specialize in secure infrastructure using Terraform, CloudFormation, and Python, alongside event-driven serverless architectures and SOAR (Security Orchestration, Automation, and Response) solutions. 
 
-Through hands-on labs and real-world simulations in **[Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**, I design and document secure architectures, CI/CD pipelines with integrated security scanning, and automated remediation workflows.
+Through my hands-on portfolio, I design and document 3-tier VPC architectures, CI/CD pipelines with integrated security scanning, and automated incident remediation workflows.
 
 My philosophy remains simple: **The hard work pays off — especially when applied consistently and strategically.**
 
@@ -40,9 +40,18 @@ My philosophy remains simple: **The hard work pays off — especially when appli
 <br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+**Observability & Data**
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Code & Automation**
 <br>
@@ -53,14 +62,12 @@ My philosophy remains simple: **The hard work pays off — especially when appli
 
 **Security Focus**
 <br>
-<img src="https://img.shields.io/badge/IAM-Least_Privilege-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/IAM-Zero_Trust-red?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Infrastructure_as_Code-Security-red?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-Shift_Left_Security-red?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Container-Hardening-red?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Auto_Remediation-AWS_Lambda-red?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/SOAR-Auto_Remediation-red?style=for-the-badge&logo=awslambda&logoColor=white" />
 <img src="https://img.shields.io/badge/Trivy-Vulnerability_Scanning-00A5CC?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-
-I focus on building cloud environments that are secure by design, applying least privilege principles, automated security validation in CI/CD pipelines, and proactive vulnerability management.
 
 ---
 
@@ -70,9 +77,9 @@ For me, Python is not just a scripting language — it is a core engineering too
 
 I use Python to build automation and security workflows that eliminate manual processes and reduce operational risk.
 
-🔹 Automating AWS resource management using Boto3  
-🔹 Developing Lambda-based auto-remediation functions  
-🔹 Creating security validation scripts for IAM and infrastructure  
+🔹 Automating AWS resource management and incident response using Boto3  
+🔹 Developing Lambda-based event-driven auto-remediation functions  
+🔹 Creating security validation scripts for IAM, CloudTrail, and EventBridge  
 🔹 Integrating security checks into CI/CD pipelines  
 🔹 Writing modular, reusable automation scripts  
 
@@ -80,12 +87,16 @@ In Cloud and DevSecOps, automation is security. Python allows me to transform in
 
 ---
 
-### Featured Repository
+### Featured Projects
 
-> **[📂 Cloud Engineering Labs](https://github.com/AlexandrLopes/cloud-engineering-labs)**
->
-> *My experimental playground for DevOps, Cloud Architecture, and Security.*
-> Check it out to see my code, diagrams, and documentation in action.
+> **[ AWS Security Auto-Remediation Bot (SOAR)](https://github.com/AlexandrLopes/cloud-engineering-labs)**
+> Built an autonomous SOAR solution utilizing Python (Boto3), CloudTrail, and EventBridge to instantly detect and revoke non-compliant Security Groups, enforcing Zero Trust policies.
+
+> **[ AWS 3-Tier Infrastructure & Observability Stack](https://github.com/AlexandrLopes/cloud-engineering-labs)**
+> Provisioned a production-ready VPC with strict network segmentation using Terraform, integrated with a PostgreSQL database, automated S3 backups, and a Docker Compose observability stack (Prometheus & Grafana).
+
+> **[ Serverless eSIM Order Processor](https://github.com/AlexandrLopes/cloud-engineering-labs)**
+> Designed an event-driven architecture via CloudFormation, leveraging SQS, Lambda, and DynamoDB to asynchronously process high-volume orders with zero data loss.
 
 ---
 
@@ -95,17 +106,17 @@ My professional focus is DevSecOps and Cloud Security Engineering.
 
 I am particularly interested in roles where I can contribute to:
 
-• Secure Infrastructure as Code (Terraform)  
+• Secure Infrastructure as Code (Terraform & CloudFormation)  
 • CI/CD pipeline hardening and security automation  
-• Cloud IAM design and least privilege strategies  
-• Container security and vulnerability management  
-• Automated security remediation workflows  
+• Cloud IAM design and Zero Trust strategies  
+• Container security and observability (Prometheus/Grafana)  
+• Automated security remediation workflows (SOAR)  
 
-I am open to **Junior / Entry-Level DevSecOps or Cloud Security roles**, where I can deliver value through automation, cloud security practices, and strong ownership mentality.
+I am open to **Cloud Security Engineer or DevSecOps roles**, where I can deliver value through automation, cloud security practices, and a strong ownership mentality.
 
-* **Availability:** Immediate (Remote) or Hybrid in Madrid, Spain  
+* **Availability:** Madrid, Spain  
 * **Work Authorization:** Full working rights in the EU  
-* **Languages:** Portuguese (Native), English (C2), Spanish (B2)
+* **Languages:** Portuguese (Native), English (C2), Spanish (Intermediate-Advanced)
 
 ---
 
@@ -113,9 +124,7 @@ I am open to **Junior / Entry-Level DevSecOps or Cloud Security roles**, where I
   <h3>📫 Connect with me</h3>
   <p>Let's talk about Cloud, Security, or the best coffee in town.</p>
   
-  <a href="https://www.linkedin.com/in/alexandre-lopes-8a4574211/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandrewdlopes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-<br>
