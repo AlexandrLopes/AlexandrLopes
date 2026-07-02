@@ -3,7 +3,7 @@
   <h3>DevOps & Cloud Security Engineer | AWS</h3>
 
   <p>
-    <em>Turning coffee into Infrastructure, Security & Automation.</em> ☕ ➡️ ☁️
+    <em>If I have to do it twice, I automate it. If it touches production, I secure it.
   </p>
 
   <p>
