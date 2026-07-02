@@ -95,6 +95,9 @@ I use Python to build automation and security workflows that eliminate manual pr
 
 ### Featured Projects
 
+> **[SIP Ingress Infrastructure on AWS (Telephony)](https://github.com/AlexandrLopes/sip-ingress-aws)**
+> A production-oriented AWS architecture for SIP signaling ingress, provisioned with Terraform (modular, isolated prod/staging environments). NLB (Layer 4, UDP) with source-IP preservation and provider allowlisting, stateless ECS Fargate scaling on active SIP sessions, RDS Multi-AZ behind RDS Proxy, private subnets reaching AWS services via VPC Endpoints (no NAT), and break-glass access via bastion (RDS) and ECS Exec (Fargate).
+
 > **[Automated DevSecOps Pipeline (Shift-Left Security)](https://github.com/AlexandrLopes/cloud-engineering-labs/blob/main/.github/workflows/security-scan.yaml)**
 > A GitHub Actions pipeline that automatically scans Terraform for misconfigurations and Docker images for CVEs using Trivy, blocking the build whenever critical vulnerabilities are detected. Security enforced before deployment, not after.
 
@@ -141,5 +144,8 @@ I am open to **Cloud Security Engineer or DevOps roles**, where I can deliver va
 
   <a href="https://www.linkedin.com/in/alexandrewdlopes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.credly.com/users/alexandre-lopes.ad81f6e5" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
 </div>
