@@ -127,7 +127,7 @@ I am particularly interested in roles where I can contribute to:
 • Container security and observability (Prometheus/Grafana)  
 • Automated security remediation workflows (SOAR)  
 
-I am open to **Cloud Security Engineer or DevSecOps roles**, where I can deliver value through automation, cloud security practices, and a strong ownership mentality.
+I am open to **Cloud Security Engineer or DevOps roles**, where I can deliver value through automation, cloud security practices, and a strong ownership mentality.
 
 * **Availability:** Madrid, Spain  
 * **Work Authorization:** Full working rights in the EU (Spouse of EU Citizen)  
