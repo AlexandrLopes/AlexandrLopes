@@ -95,9 +95,6 @@ I use Python to build automation and security workflows that eliminate manual pr
 
 ### Featured Projects
 
-> **[SIP Ingress Infrastructure on AWS (Telephony)](https://github.com/AlexandrLopes/sip-ingress-aws)**
-> A production-oriented AWS architecture for SIP signaling ingress, provisioned with Terraform (modular, isolated prod/staging environments). NLB (Layer 4, UDP) with source-IP preservation and provider allowlisting, stateless ECS Fargate scaling on active SIP sessions, RDS Multi-AZ behind RDS Proxy, private subnets reaching AWS services via VPC Endpoints (no NAT), and break-glass access via bastion (RDS) and ECS Exec (Fargate).
-
 > **[Automated DevSecOps Pipeline (Shift-Left Security)](https://github.com/AlexandrLopes/cloud-engineering-labs/blob/main/.github/workflows/security-scan.yaml)**
 > A GitHub Actions pipeline that automatically scans Terraform for misconfigurations and Docker images for CVEs using Trivy, blocking the build whenever critical vulnerabilities are detected. Security enforced before deployment, not after.
 
