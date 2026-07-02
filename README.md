@@ -117,16 +117,6 @@ I use Python to build automation and security workflows that eliminate manual pr
 
 ### Career Goals & Opportunities
 
-My professional focus is DevSecOps and Cloud Security Engineering.
-
-I am particularly interested in roles where I can contribute to:
-
-• Secure Infrastructure as Code (Terraform & CloudFormation)  
-• CI/CD pipeline hardening and security automation  
-• Cloud IAM design and Zero Trust strategies  
-• Container security and observability (Prometheus/Grafana)  
-• Automated security remediation workflows (SOAR)  
-
 I am open to **Cloud Security Engineer or DevOps roles**, where I can deliver value through automation, cloud security practices, and a strong ownership mentality.
 
 * **Availability:** Madrid, Spain  
