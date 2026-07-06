@@ -111,7 +111,7 @@ I use Python to build automation and security workflows that eliminate manual pr
 ### In Production
 
 > **[NômadeFácil](https://nomadefacil.com)** — A platform I designed, built, and run in production on my own.
-> Beyond the labs: this is where my CI/CD and security practices meet real users. Continuous deployment gated by a ~280-test suite, rate-limited public endpoints, and a third-party pentest. Built on Next.js, Supabase, and the Anthropic (Claude) API.
+> Beyond the labs: this is where my CI/CD and security practices meet real users. Continuous deployment gated by a ~325-test suite, rate-limited public endpoints, and a third-party pentest. Built on Next.js, Supabase, and the Anthropic (Claude) API.
 
 ---
 
