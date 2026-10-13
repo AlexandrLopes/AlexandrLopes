@@ -101,6 +101,9 @@ I use Python to build automation and security workflows that eliminate manual pr
 
 ### Featured Projects
 
+> **[Kubernetes Hardening Lab](https://github.com/AlexandrLopes/kubernetes-hardening-lab)**
+> A two-tier app (Python API + PostgreSQL) deployed insecure, then hardened layer by layer on a Kind cluster — where **every control is proven by a verification script that fails when the control is removed**. Enforces the `restricted` Pod Security Standard (non-root, `drop: ALL`, seccomp `RuntimeDefault`, read-only rootfs, no SA token), Kyverno admission policies, default-deny Calico NetworkPolicies, and SealedSecrets kept encrypted in Git. Supply chain locked down with digest-pinned images and a Trivy CRITICAL gate; CI runs shellcheck, gitleaks (full history), and Trivy with SHA-pinned actions. Includes server-side dry-runs that show exactly which layer rejects each non-compliant pod, and a `docs/decisions.md` trade-off log.
+
 > **[SIP Ingress Infrastructure on AWS (Telephony)](https://github.com/AlexandrLopes/sip-ingress-aws)**
 > A production-oriented AWS architecture for SIP signaling ingress, provisioned with Terraform (modular, isolated prod/staging environments). NLB (Layer 4, UDP) with source-IP preservation and provider allowlisting, stateless ECS Fargate scaling on active SIP sessions, RDS Multi-AZ behind RDS Proxy, private subnets reaching AWS services via VPC Endpoints (no NAT), and break-glass access via bastion (RDS) and ECS Exec (Fargate).
 
