@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alexandre Lopes 👋</h1>
-  <h3>DevOps & Cloud Engineer | AWS</h3>
+  <h3>SecDevOps & Cloud Engineer | AWS</h3>
 
   <p>
     <em>If I have to do it twice, I automate it. If it touches production, I secure it.
@@ -20,9 +20,9 @@
 
 <hr/>
 
-### About Me & The Mission
+### About Me
 
-I am a DevOps and Cloud Security Engineer with certifications in AWS Cloud Practitioner (CLF-C02) and Google Cloud Cybersecurity. I focus on building secure, automated, and scalable cloud environments on AWS.
+I'm a SecDevOps & Cloud Engineer based in Madrid, where I design and secure infrastructure for critical, data-sensitive operations — including sovereign-AI and high-assurance environments with restricted, least-privilege access. I hold the AWS Cloud Practitioner (CLF-C02) and Google Cloud Cybersecurity certifications, and I focus on building secure, automated, and scalable cloud environments.
 
 My approach combines **Infrastructure as Code (IaC), Security by Design, and Automation-first principles**. I specialize in secure infrastructure using Terraform, CloudFormation, and Python, alongside event-driven serverless architectures and SOAR (Security Orchestration, Automation, and Response) solutions.
 
@@ -33,12 +33,15 @@ Through my hands-on portfolio, I design and document 3-tier VPC architectures, C
 **Cloud & Infrastructure**
 <br>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Exoscale-DA291C?style=for-the-badge&logo=exoscale&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 
 **Observability & Data**
 <br>
@@ -118,11 +121,10 @@ I use Python to build automation and security workflows that eliminate manual pr
 
 ---
 
-### Career Goals & Opportunities
+### Currently
 
-I am open to **Cloud Security Engineer or DevOps roles**, where I can deliver value through automation, cloud security practices, and a strong ownership mentality.
-
-* **Availability:** Madrid, Spain  
+* **Role:** SecDevOps & Cloud Engineer — Madrid, Spain  
+* **Building:** NômadeFácil, in production  
 * **Work Authorization:** Full working rights in the EU (Spouse of EU Citizen)  
 * **Languages:** Portuguese (Native), English (C2), Spanish (B2)  
 
