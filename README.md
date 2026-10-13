@@ -71,6 +71,19 @@ Through my hands-on portfolio, I design and document 3-tier VPC architectures, C
 
 ---
 
+### AI-Augmented Engineering
+
+I'm highly proficient building with AI as a core part of my daily engineering — using **Claude Code** and LLM-driven workflows to design, write, and ship production code and infrastructure. Not autocomplete: AI drives the full cycle — spec, implement, review, and test — at high velocity, from application code to Infrastructure as Code and automation.
+
+🔹 **Claude Code** as a primary driver for building — application logic, IaC, automation, and large-scale refactoring under test  
+🔹 Turning requirements into working, reviewed code fast, then hardening it to production standards  
+🔹 Treating AI output as reviewed code: nothing ships without passing **CI, tests, and security scanning**  
+🔹 Integrating LLM APIs into production features with rate limiting and guardrails  
+
+AI accelerates the work; the engineering discipline is what keeps it production-grade.
+
+---
+
 ### DevSecOps & Shift-Left Security
 
 I treat security as part of the build, not an afterthought. My pipelines are designed to catch issues *before* deployment, not in production.
