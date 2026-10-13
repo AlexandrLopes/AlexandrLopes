@@ -3,7 +3,7 @@
   <h3>SecDevOps & Cloud Engineer | AWS</h3>
 
   <p>
-    <em>If I have to do it twice, I automate it. If it touches production, I secure it.
+    If I have to do it twice, I automate it. If it touches production, I secure it.
   </p>
 
   <p>
