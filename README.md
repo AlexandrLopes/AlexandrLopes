@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Alexandre Lopes 👋</h1>
-  <h3>SecDevOps & Cloud Engineer | AWS</h3>
+  <h3>SecDevOps & Cloud Engineer </h3>
 
   <p>
     If I have to do it twice, I automate it. If it touches production, I secure it.
@@ -22,7 +22,7 @@
 
 ### About Me
 
-I'm a SecDevOps & Cloud Engineer based in Madrid, where I design and secure infrastructure for critical, data-sensitive operations — including sovereign-AI and high-assurance environments with restricted, least-privilege access. I hold the AWS Cloud Practitioner (CLF-C02) and Google Cloud Cybersecurity certifications, and I focus on building secure, automated, and scalable cloud environments.
+I'm a SecDevOps & Cloud Engineer based in Madrid, where I design and secure infrastructure for critical, data-sensitive operations — including sovereign-AI and high-assurance environments with restricted, least-privilege access. I hold the AWS Cloud Practitioner (CLF-C02), all certifications of Exoscale (CCP100, CSA200, CCE300), Google Cloud Cybersecurity certifications, and others of Cisco. My main focus is on building secure, automated, and scalable Cloud Environments.
 
 My approach combines **Infrastructure as Code (IaC), Security by Design, and Automation-first principles**. I specialize in secure infrastructure using Terraform, CloudFormation, and Python, alongside event-driven serverless architectures and SOAR (Security Orchestration, Automation, and Response) solutions.
 
